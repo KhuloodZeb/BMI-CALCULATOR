@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-color: lightgray;
+    background-color: #333;
 }
 .container{
     display: flex;
@@ -12,7 +12,7 @@ body{
     padding-left: 40%;
 }
 .input{
-    padding-left: 50px;
+    padding-left: 40px;
     margin-top: 30px;
 }
 input{
@@ -24,4 +24,8 @@ input{
 .btn{
     padding: 20px;
     padding-left: 120px;
+}
+button{
+    padding: 8px 8px;
+    border-radius: 8px ;
 }
