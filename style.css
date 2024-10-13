@@ -5,6 +5,9 @@
 body{
     background-color: #333;
 }
+h1{
+    color: whitesmoke;
+}
 .container{
     display: flex;
     flex-direction: column;
@@ -23,9 +26,13 @@ input{
 }
 .btn{
     padding: 20px;
-    padding-left: 120px;
+    margin-left: 50px;
 }
 button{
     padding: 8px 8px;
     border-radius: 8px ;
+}
+#output{
+    color: white;
+    margin-left: 50px;
 }
